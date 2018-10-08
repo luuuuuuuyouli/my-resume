@@ -7,16 +7,16 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: 沈 勇
+    tagline: iOS开发工程师
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
+    email: 15826383768@163.com
+    phone: 158 2638 3768
+    website: luuuuuuuyouli.github.io/liluyou/ #do not add http://
     linkedin: alandoe
-    github: sharu725
+    github: luuuuuuuyouli
     gitlab:
     bitbucket:
     twitter: '@webjeda'
@@ -24,24 +24,12 @@ sidebar:
     codewars:
 
     languages:
-      - idiom: English
+      - idiom: Chinese
         level: Native
 
-      - idiom: French
+      - idiom: English
         level: Professional
-
-      - idiom: Spanish
-        level: Professional
-        
-    interests:
-      - item: Climbing
-        link:
-
-      - item: Snowboarding
-        link:
-
-      - item: Cooking
-        link:
+ 
 
 career-profile:
     title: Career Profile
@@ -177,23 +165,17 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: objective-c & swift
+        level: 90%
 
       - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Vue
+        level: 80%
+
+      - name: HTML5 & CSS
+        level: 90%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
